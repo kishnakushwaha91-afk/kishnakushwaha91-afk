@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently learning AI<br>i'm looking to collaborate on AI projects<br>ASK me about machine learning, deep learning and AI
+i'm currently learning AI<br>i'm looking to collaborate on AI projects<br>ASK me about Machine Learning, Deep Learning and AI
 
 
 ## 🌐 Socials:
