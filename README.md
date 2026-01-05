@@ -1,4 +1,4 @@
-                                                    # 💫 Hi 👋, I'm Kishna Kushwaha
+# 💫 Hi 👋, I'm Kishna Kushwaha
 i'm currently learning AI<br>i'm looking to collaborate on AI projects<br>ASK me about Machine Learning, Deep Learning and AI
 
 
